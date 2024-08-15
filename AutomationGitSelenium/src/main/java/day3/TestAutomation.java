@@ -6,4 +6,8 @@ public class TestAutomation {
         System.out.println("Welcome to git");
     }
 
+    public void printName(){
+        System.out.println("your name should be...");
+    }
+
 }
