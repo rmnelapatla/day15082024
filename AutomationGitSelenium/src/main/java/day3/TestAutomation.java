@@ -10,8 +10,5 @@ public class TestAutomation {
         System.out.println("your name should be...");
     }
 
-
-    public void displaytable(){
-        System.out.println("2*2="+(2*2));
-    }
+    
 }
