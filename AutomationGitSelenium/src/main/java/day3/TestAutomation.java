@@ -8,6 +8,9 @@ public class TestAutomation {
 
     public void printName(){
         System.out.println("your name should be...");
+        for(int i=0;i<=10;i++){
+            System.out.println(i);
+        }
     }
 
     
